@@ -60,8 +60,7 @@ SnapClass is an AI-based classroom attendance system that automates attendance u
 
 ### 📷 Face Attendance
 
-<img width="770" height="779" alt="image" src="https://github.com/user-attachments/assets/bda41489-4589-4e29-9e76-a53d8961874b" />
-
+<img width="960" height="837" alt="image" src="https://github.com/user-attachments/assets/0f8d61f9-f758-48c6-9723-2fbbeb059e71" />
 
 ---
 
